@@ -1,5 +1,0 @@
-Aprendendo Git e GitHub 
-
-teste 1
-
-Hora de melhorar o código!
